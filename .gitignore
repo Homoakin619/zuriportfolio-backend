@@ -1,0 +1,17 @@
+node_modules
+dist
+.env
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+.DS_Store
+build
+hngxdev*
+*.txt
+/test.js
+/nodemon.json
+/nodemon.txt
+
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
