@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    // "lib": ["es5", "es6"],
+    "target": "ES2022", // Change to `es6` or `esnext`
+    "module": "commonjs", // Change to `esnext` or `es2022`
+    // "moduleResolution": "NodeNext", // Change to `node16` or `nodenext`
+    "outDir": "./src/dist",
+    "rootDir": "./src",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "strict": false,
+    "skipLibCheck": true
+  }
+}
